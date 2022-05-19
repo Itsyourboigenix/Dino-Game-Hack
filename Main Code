@@ -1,0 +1,7 @@
+Runner.instance_.setSpeed
+
+Runner.prototype.gameOver = function(){}
+
+Runner.instance_.distanceRan=10000000000000000000000000/
+
+Runner.instance_.distanceMeter.config.COEFFICIEN
