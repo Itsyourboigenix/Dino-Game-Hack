@@ -4,7 +4,7 @@ Right Click > Inspect > Console > Enter Code
 
 This is Javascript Language
 
-
+Main Code 👇🏻
 
 
 Runner.instance_.setSpeed(1000)
